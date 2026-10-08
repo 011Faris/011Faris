@@ -19,22 +19,34 @@ I love learning new technologies, working on small projects, and growing step by
 ## 💻 Tech Stack:
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,php&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,php&theme=dark)](https://skillicons.dev)
 
 ### Frontend & Mobile
 [![My Skills](https://skillicons.dev/icons?i=svelte,vite,bootstrap,jquery,flutter,dart&theme=dark)](https://skillicons.dev)
 
 ### Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express&theme=dark)](https://skillicons.dev)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white)
+<p>
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/white" width="48" height="48" alt="JWT" />
+  <img src="https://cdn.simpleicons.org/nodemon/76D04B" width="48" height="48" alt="Nodemon" />
+  <img src="https://cdn.simpleicons.org/svelte/FF3E00" width="48" height="48" alt="SvelteKit" />
+</p>
 
 ### Database & Cloud
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,sqlite,supabase,aws,cloudflare,vercel,nginx,apache&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,sqlite,supabase,aws,cloudflare,vercel,nginx&theme=dark)](https://skillicons.dev)
+<p>
+  <img src="https://cdn.simpleicons.org/apache/D42029" width="48" height="48" alt="Apache" />
+</p>
 
 ### Data Science & Tools
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark)](https://skillicons.dev)
-![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=sklearn,tensorflow,git,github,vscode,postman&theme=dark)](https://skillicons.dev)
+<p>
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48" alt="NumPy" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
+  <img src="https://cdn.simpleicons.org/prettier/F7B93E" width="48" height="48" alt="Prettier" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" />
+</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=011Faris&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
